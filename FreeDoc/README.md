@@ -1,24 +1,10 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+  ## Encore une jolie database en 🛤 Rails 🛤
 
-Things you may want to cover:
+  *Ce joli repo contient le dossier du projet FreedDoc, véritable disruption, crainte par les gars de Doctolib...*
 
-* Ruby version
+  <h2> Le précieux :</h2>
 
-* System dependencies
+  ### - FreeDoc 👩🏼‍⚕️
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+  Tout simplement la meilleure solution pour réserver ton docteur.
